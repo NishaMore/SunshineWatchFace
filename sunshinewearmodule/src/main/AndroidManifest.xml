@@ -31,10 +31,10 @@
                 android:resource="@xml/watch_face" />
             <meta-data
                 android:name="com.google.android.wearable.watchface.preview"
-                android:resource="@drawable/ic_launcher_icon" />
+                android:resource="@drawable/square_preview" />
             <meta-data
                 android:name="com.google.android.wearable.watchface.preview_circular"
-                android:resource="@drawable/art_rain" />
+                android:resource="@drawable/round_preview" />
           <!--  <meta-data
                 android:name="com.google.android.wearable.watchface.companionConfigurationAction"
                 android:value="com.example.android.wearable.watchface.CONFIG_DIGITAL" />
